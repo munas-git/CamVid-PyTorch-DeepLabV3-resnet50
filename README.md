@@ -3,7 +3,7 @@
 
 # Project Title: Cambridge-Driving Dataset Image Segmentation using DeepLabsV3 Model with Resnet50 Backbone.
 ## Project Description.
-This Image segmentation project is served as an introduction to image segmentation using DeepLabsV3 through PyTorch for me. It was used to prepare for a much advanced project that can be found [here.](https://github.com/) The model trained achieved a Dice score of `0.9515` after just 35 epochs. There were no subsequent post-processing steps involved in this project.
+This Image segmentation project is served as an introduction to image segmentation using DeepLabsV3 through PyTorch for me. It was used to prepare for a much advanced project that can be found [here.](https://github.com/) The model trained achieved a Dice score of `0.9515` after just **35** epochs. There were no subsequent post-processing steps involved in this project.
 
 ## Notes about the dataset.
 The dataset which can be found [here](https://www.kaggle.com/datasets/carlolepelaars/camvid) consists of 32 classes such as cars, animal, building, etc. Pre-processing steps used in this project include;   
